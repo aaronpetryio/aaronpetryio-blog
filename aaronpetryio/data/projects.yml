@@ -1,0 +1,6 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: NBA Position Classification
+    description: An introduction to using K-Means clustering to predict what position an NBA players based on their physical characteristics such as height and weight. 
+    url: https://github.com/aaronpetryio/nba-position-classification 

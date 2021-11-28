@@ -1,0 +1,44 @@
+baseURL = "https://aaronpetry.io/"
+languageCode = "en-US"
+title = "Aaron Petry"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/papas_aaron.png"
+  author = "Aaron Petry"
+  description = "A personal space for thoughts and projects!"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "aaronpetryio"
+  Email         = "aaron@aaronpetry.io"
+  Twitter       = "aaronpetry.io"
+  LinkedIn      = "aaron-petry"
+  RSS           = "/blog/index.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"

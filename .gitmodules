@@ -1,0 +1,4 @@
+[submodule "aaronpetryio/public"]
+	path = aaronpetryio/public
+	url = https://github.com/aaronpetryio/aaronpetryio.github.io.git
+	branch = main
