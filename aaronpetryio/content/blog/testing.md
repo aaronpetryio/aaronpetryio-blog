@@ -1,7 +1,7 @@
 +++
 author = "Aaron Petry"
-title = "Learning Basketball Analytics - Week 0 - Introduction"
-date = "2021-11-21"
+title = "Another one"
+date = "2023-11-21"
 description = "An introduction to my basketball analytics blog project!"
 +++
 
