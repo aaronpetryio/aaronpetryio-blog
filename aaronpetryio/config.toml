@@ -26,10 +26,6 @@ theme = "hugo-sustain"
   LinkedIn      = "aaron-petry"
   RSS           = "/blog/index.xml"
 
-[module]
-  [[module.imports]]
-    path = "github.com/suyundukov/hugo-sustain"
-
 ## Main Menu
 [[menu.main]]
   name = "blog"
