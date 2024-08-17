@@ -1,7 +1,7 @@
 ---
 ---
 
-Hello! I'm **Aaron Petry**, a data analyst. 
+Greetings! I'm **Aaron Petry**, a data analyst. 
 
 I'm into data, sports, food, and the great outdoors. 
 
