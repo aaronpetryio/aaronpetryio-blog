@@ -1,6 +1,7 @@
 ---
 title: "Aaron's Bearchalor Party"
 date: "2024-08-01"
+showthedate: false
 ---
 
 [![](https://www.aaronpetry.io/img/bearchalor.png)](https://www.youtube.com/watch?v=fripnW7w2Us)
