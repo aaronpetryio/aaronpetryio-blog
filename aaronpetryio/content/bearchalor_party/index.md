@@ -32,8 +32,8 @@ The details aren't ironed out yet, but I'll be flying into town on Thursday, Nov
 If you're interested in any of the below activities, could you please fill out [this form](https://forms.gle/qUuWL7i37BxeHkrU8). This will help me know how many tickets to buy and/or group size. 
 
 **Friday, November 15th**
-- Barry's (HIIT Class) in the AM, $25
-- Cooking Class / Food Tour / Something with food, ~$100
+- Barry's (HIIT Class) in the AM, ($25)
+- Cooking Class / Food Tour / Something with food, (~$100)
 - If the cooking class doesn't work out, casino? (~$∞)
 
 **Saturday, November 16th** 
